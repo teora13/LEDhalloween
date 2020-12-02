@@ -8,3 +8,5 @@ Modules:
 * random - to get random number of effect
 * time - create a new post request and check Internet connection
 * datetime - to get information about today's date 
+
+![GIF](ezgif.com-gif-maker.gif)
